@@ -84,14 +84,6 @@ def remove_a_member(id):
 
 
 
-
-
-
-
-
-
-
-
 # this only runs if `$ python src/app.py` is executed
 if __name__ == '__main__':
     PORT = int(os.environ.get('PORT', 3000))
